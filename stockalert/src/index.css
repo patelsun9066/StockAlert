@@ -1,0 +1,39 @@
+
+.priceTime {
+    font-size: 4.0vmin;
+    text-align: center;
+}
+
+.tickerName {
+    font-size: 4.0vmin;
+    text-align: center;
+}
+
+.priceTicker {
+    font-size: 6.0vmin;
+    text-align: center;
+}
+
+.up {
+    color: #34a853;
+  }
+  
+  .down {
+    color: #d93025;
+  }
+
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+
+  .tickerNameLegend {
+    font-size: 4.0vmin;
+    text-align: center;
+  }
