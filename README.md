@@ -16,6 +16,7 @@ Athena is a Full Stack Cloud application designed to help novice traders stay up
 
   
 Tecnologies Used:
+  
   Front-End: React.js, HTML, CSS, Axios.js, AWS S3 (for static hosting)
   
   Backend: Node.js - Axios - AWS (Lambda, Cloudwatch, DynamoDB, SES/SNS , API GateWay) 
