@@ -13,7 +13,7 @@ function HomePage() {
                 <br></br>
                 <p><b>A Full Stack Distributed Serverless Cloud Application</b></p>
                 <p><b>FrontEnd: React.js - Javascript - HTML - CSS</b></p>
-                <p><b>Backend: Node.js - Axios - AWS (Lambda, Cloudwatch, DynamoDB, SES)</b></p>
+                <p><b>Backend: Node.js - Axios - AWS (Lambda, Cloudwatch, DynamoDB, SES, API GateWay)</b></p>
             </article>
         </>
     );

@@ -42,11 +42,27 @@
 /*  ----- Form ----- */
 form {
   padding: .25%;
-  font-size: 1.2em;;
+  font-size: 2.0vmin;
   color: black;
+  border: 
 }
 
 
 input {
   color: black;
+  background-color: whitesmoke;
+  margin: .20%;
+  font-size: 2.0vmin;
+  padding: .05%;
+  border: 2px solid #555;
 }
+
+button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 2.0vmin;
+  margin: .30%;
+}
+
