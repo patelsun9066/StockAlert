@@ -19,4 +19,4 @@ Tecnologies Used:
   
   Front-End: React.js, HTML, CSS, Axios.js, AWS S3 (for static hosting)
   
-  Backend: Node.js - Axios - AWS (Lambda, Cloudwatch, DynamoDB, SES/SNS , API GateWay) 
+  Backend: Node.js, Axios, AWS (Lambda, Cloudwatch, DynamoDB, SES/SNS , API GateWay) 
