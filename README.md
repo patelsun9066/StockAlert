@@ -11,7 +11,7 @@ Athena is a Full Stack Cloud application designed to help novice traders stay up
 ![](candlestick.gif)
 
 
-<b>and then finally subscribe for stock alerts on your desired stock ticker<b>
+<b>Finally, subscribe for stock alerts for your desired stock ticker!<b>
 ![](emailsub.gif)
 
   
