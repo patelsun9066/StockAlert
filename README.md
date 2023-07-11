@@ -7,11 +7,11 @@ If you find yourself in this predicament, look no further.....
 
 Athena is a Full Stack Cloud application designed to help novice traders stay updated on price movements for desired stocks. Users simply specify which stock + price movement interval they would like to be notified via Email (valid email required) and Anthena`s distributed serverless backend will alert users of any price movement below/above the threshold for tha stock.
 
-<b> Check out our dynamic candlestick price explorer as well!<b>
+<b>Using the application is simple! First, use the dynamic candlestick price explorer to explore stock prices!<b>
 ![](candlestick.gif)
 
 
-<b> Example input for stock alert subscription below <b>
+<b>and then finally subscribe for stock alerts on your desired stock ticker<b>
 ![](emailsub.gif)
 
   
