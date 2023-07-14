@@ -11,10 +11,13 @@ Athena is a Full Stack Cloud application designed to help novice traders stay up
 ![](candlestick.gif)
 
 
-<b>Finally, subscribe for stock alerts for your desired stock ticker!<b>
+<b>Then, subscribe for stock alerts for your desired stock ticker!<b>
 ![](emailsub.gif)
 
-  
+
+
+
+
 Tecnologies Used:
   
   Front-End: React.js, HTML, CSS, Axios.js, AWS S3 (for static hosting)
